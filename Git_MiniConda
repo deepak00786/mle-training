@@ -1,0 +1,534 @@
+Script started on 2022-06-21 17:41:44+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ lsroot[2Plsnotepoadls[Kroot[2Pls[Ksudo apt-get install git
+[sudo] password for deepak: 
+
+Sorry, try again.
+[sudo] password for deepak: 
+
+
+Sorry, try again.
+[sudo] password for deepak: 
+Rootsudo: 3 incorrect password attempts
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ Root[K[K[K[Ksudo apt-get install git
+[sudo] password for deepak: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.25.1-1ubuntu3.4).
+git set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 274 not upgraded.
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ ls
+my_unix_session
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ cd D
+bash: cd: D: No such file or directory
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ cd[K[Kvd[K[Kcd win-hon[Kme
+bash: cd: win-home: No such file or directory
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ ln -s ^[[2;2~[K[K[K[K[K[K[K  [Kc[Kv[K  sf[K[K[K[KC:\Users\deepak.kumar\Downloads -/win-home
+ln: invalid option -- '/'
+Try 'ln --help' for more information.
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ ln -s C:\Users\deepak.kumar\Downloads -/win-home[1P/win-home`/win-home[1P/win-home~/win-home
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ ls
+my_unix_session  [0m[40;31;01mwin-home[0m
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ cd win-home
+bash: cd: win-home: No such file or directory
+]0;deepak@TIGER03271: ~[01;32mdeepak@TIGER03271[00m:[01;34m~[00m$ cd /
+]0;deepak@TIGER03271: /[01;32mdeepak@TIGER03271[00m:[01;34m/[00m$ ls -lrt
+total 1428
+drwx------   2 root root   16384 Apr 10  2019 [0m[01;34mlost+found[0m
+drwxr-xr-x   2 root root    4096 Apr 10  2020 [01;34msnap[0m
+lrwxrwxrwx   1 root root       7 Apr 23  2020 [01;36mbin[0m -> [01;34musr/bin[0m
+lrwxrwxrwx   1 root root       8 Apr 23  2020 [01;36msbin[0m -> [01;34musr/sbin[0m
+lrwxrwxrwx   1 root root       7 Apr 23  2020 [01;36mlib[0m -> [01;34musr/lib[0m
+lrwxrwxrwx   1 root root       9 Apr 23  2020 [01;36mlib64[0m -> [01;34musr/lib64[0m
+lrwxrwxrwx   1 root root       9 Apr 23  2020 [01;36mlib32[0m -> [01;34musr/lib32[0m
+lrwxrwxrwx   1 root root      10 Apr 23  2020 [01;36mlibx32[0m -> [01;34musr/libx32[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34msrv[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34mopt[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34mmedia[0m
+drwxr-xr-x  14 root root    4096 Apr 23  2020 [01;34musr[0m
+drwx------   2 root root    4096 Apr 23  2020 [01;34mroot[0m
+drwxr-xr-x  13 root root    4096 Apr 23  2020 [01;34mvar[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34mboot[0m
+-rwxr-xr-x   4 root root 1392928 Mar 24 05:18 [01;32minit[0m
+drwxr-xr-x   6 root root    4096 Jun 21 17:22 [01;34mmnt[0m
+drwxr-xr-x   3 root root    4096 Jun 21 17:22 [01;34mhome[0m
+dr-xr-xr-x  11 root root       0 Jun 21 17:34 [01;34msys[0m
+drwxr-xr-x   8 root root    2760 Jun 21 17:34 [01;34mdev[0m
+dr-xr-xr-x 170 root root       0 Jun 21 17:35 [01;34mproc[0m
+drwxr-xr-x  92 root root    4096 Jun 21 17:35 [01;34metc[0m
+drwxr-xr-x   7 root root     140 Jun 21 17:35 [01;34mrun[0m
+drwxrwxrwt   2 root root    4096 Jun 21 17:43 [30;42mtmp[0m
+]0;deepak@TIGER03271: /[01;32mdeepak@TIGER03271[00m:[01;34m/[00m$ ls -lrt[K[Ktr
+total 1428
+drwx------   2 root root   16384 Apr 10  2019 [0m[01;34mlost+found[0m
+drwxr-xr-x   2 root root    4096 Apr 10  2020 [01;34msnap[0m
+lrwxrwxrwx   1 root root       7 Apr 23  2020 [01;36mbin[0m -> [01;34musr/bin[0m
+lrwxrwxrwx   1 root root       8 Apr 23  2020 [01;36msbin[0m -> [01;34musr/sbin[0m
+lrwxrwxrwx   1 root root       7 Apr 23  2020 [01;36mlib[0m -> [01;34musr/lib[0m
+lrwxrwxrwx   1 root root       9 Apr 23  2020 [01;36mlib64[0m -> [01;34musr/lib64[0m
+lrwxrwxrwx   1 root root       9 Apr 23  2020 [01;36mlib32[0m -> [01;34musr/lib32[0m
+lrwxrwxrwx   1 root root      10 Apr 23  2020 [01;36mlibx32[0m -> [01;34musr/libx32[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34msrv[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34mopt[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34mmedia[0m
+drwxr-xr-x  14 root root    4096 Apr 23  2020 [01;34musr[0m
+drwx------   2 root root    4096 Apr 23  2020 [01;34mroot[0m
+drwxr-xr-x  13 root root    4096 Apr 23  2020 [01;34mvar[0m
+drwxr-xr-x   2 root root    4096 Apr 23  2020 [01;34mboot[0m
+-rwxr-xr-x   4 root root 1392928 Mar 24 05:18 [01;32minit[0m
+drwxr-xr-x   6 root root    4096 Jun 21 17:22 [01;34mmnt[0m
+drwxr-xr-x   3 root root    4096 Jun 21 17:22 [01;34mhome[0m
+dr-xr-xr-x  11 root root       0 Jun 21 17:34 [01;34msys[0m
+drwxr-xr-x   8 root root    2760 Jun 21 17:34 [01;34mdev[0m
+dr-xr-xr-x 170 root root       0 Jun 21 17:35 [01;34mproc[0m
+drwxr-xr-x  92 root root    4096 Jun 21 17:35 [01;34metc[0m
+drwxr-xr-x   7 root root     140 Jun 21 17:35 [01;34mrun[0m
+drwxrwxrwt   2 root root    4096 Jun 21 17:43 [30;42mtmp[0m
+]0;deepak@TIGER03271: /[01;32mdeepak@TIGER03271[00m:[01;34m/[00m$ cd mnt[Kt/
+]0;deepak@TIGER03271: /mnt[01;32mdeepak@TIGER03271[00m:[01;34m/mnt[00m$ ls
+[0m[34;42mc[0m  [34;42md[0m  [34;42mg[0m  [30;42mwsl[0m
+]0;deepak@TIGER03271: /mnt[01;32mdeepak@TIGER03271[00m:[01;34m/mnt[00m$ ls -ltr
+total 0
+drwxrwxrwx 0 deepak deepak 512 Jun 21 17:20 [0m[34;42mg[0m
+drwxrwxrwx 1 deepak deepak 512 Jun 21 17:22 [34;42md[0m
+drwxrwxrwx 1 deepak deepak 512 Jun 21 17:22 [34;42mc[0m
+drwxrwxrwt 2 root   root    60 Jun 21 17:34 [30;42mwsl[0m
+]0;deepak@TIGER03271: /mnt[01;32mdeepak@TIGER03271[00m:[01;34m/mnt[00m$ cd c
+]0;deepak@TIGER03271: /mnt/c[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c[00m$ ls -ltr
+ls: cannot access 'DumpStack.log.tmp': Permission denied
+ls: cannot access 'hiberfil.sys': Permission denied
+ls: cannot access 'pagefile.sys': Permission denied
+ls: PerfLogs: Permission denied
+ls: cannot access 'swapfile.sys': Permission denied
+ls: 'System Volume Information': Permission denied
+total 32
+-????????? ? ?      ?          ?            ?  swapfile.sys
+-????????? ? ?      ?          ?            ?  pagefile.sys
+-????????? ? ?      ?          ?            ?  hiberfil.sys
+-????????? ? ?      ?          ?            ?  DumpStack.log.tmp
+d--x--x--x 1 deepak deepak   512 Jun  5  2021  [0m[01;34mPerfLogs[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 04:35  [34;42mApps[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 05:25  [34;42me-logo[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 05:26  [34;42mDrivers[0m
+-r-xr-xr-x 1 deepak deepak 28864 Mar 24 05:30  [01;32mdell.sdr[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 05:50  [34;42mdell[0m
+dr-xr-xr-x 1 deepak deepak   512 Mar 24 05:54  [01;34mRecovery[0m
+lrwxrwxrwx 1 deepak deepak    12 May 21 13:00 [01;36m'Documents and Settings'[0m -> [01;34m/mnt/c/Users[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun  7 17:25  [01;34mUsers[0m
+drwxrwxrwx 1 deepak deepak   512 Jun  7 17:25 [34;42m'$Recycle.Bin'[0m
+drwxrwxrwx 1 deepak deepak   512 Jun  7 17:28  [34;42mProgramData[0m
+d--x--x--x 1 deepak deepak   512 Jun 17 18:12 [01;34m'System Volume Information'[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 17 19:02  [01;34mWindows[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 17 19:57 [01;34m'Program Files'[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 17 19:59 [01;34m'$WinREAgent'[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 21 13:11 [01;34m'Program Files (x86)'[0m
+drwxrwxrwx 1 deepak deepak   512 Jun 21 17:19  [34;42mIntel[0m
+]0;deepak@TIGER03271: /mnt/c[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c[00m$ cd[K[Kls -ltr
+ls: cannot access 'DumpStack.log.tmp': Permission denied
+ls: cannot access 'hiberfil.sys': Permission denied
+ls: cannot access 'pagefile.sys': Permission denied
+ls: PerfLogs: Permission denied
+ls: cannot access 'swapfile.sys': Permission denied
+ls: 'System Volume Information': Permission denied
+total 32
+-????????? ? ?      ?          ?            ?  swapfile.sys
+-????????? ? ?      ?          ?            ?  pagefile.sys
+-????????? ? ?      ?          ?            ?  hiberfil.sys
+-????????? ? ?      ?          ?            ?  DumpStack.log.tmp
+d--x--x--x 1 deepak deepak   512 Jun  5  2021  [0m[01;34mPerfLogs[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 04:35  [34;42mApps[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 05:25  [34;42me-logo[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 05:26  [34;42mDrivers[0m
+-r-xr-xr-x 1 deepak deepak 28864 Mar 24 05:30  [01;32mdell.sdr[0m
+drwxrwxrwx 1 deepak deepak   512 Mar 24 05:50  [34;42mdell[0m
+dr-xr-xr-x 1 deepak deepak   512 Mar 24 05:54  [01;34mRecovery[0m
+lrwxrwxrwx 1 deepak deepak    12 May 21 13:00 [01;36m'Documents and Settings'[0m -> [01;34m/mnt/c/Users[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun  7 17:25  [01;34mUsers[0m
+drwxrwxrwx 1 deepak deepak   512 Jun  7 17:25 [34;42m'$Recycle.Bin'[0m
+drwxrwxrwx 1 deepak deepak   512 Jun  7 17:28  [34;42mProgramData[0m
+d--x--x--x 1 deepak deepak   512 Jun 17 18:12 [01;34m'System Volume Information'[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 17 19:02  [01;34mWindows[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 17 19:57 [01;34m'Program Files'[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 17 19:59 [01;34m'$WinREAgent'[0m
+dr-xr-xr-x 1 deepak deepak   512 Jun 21 13:11 [01;34m'Program Files (x86)'[0m
+drwxrwxrwx 1 deepak deepak   512 Jun 21 17:19  [34;42mIntel[0m
+]0;deepak@TIGER03271: /mnt/c[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c[00m$ cd Users/
+]0;deepak@TIGER03271: /mnt/c/Users[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users[00m$ ls -ltr
+ls: Admin: Permission denied
+ls: gaia: Permission denied
+total 0
+-r-xr-xr-x 1 deepak deepak 174 Jun  5  2021  [0m[01;32mdesktop.ini[0m
+lrwxrwxrwx 1 deepak deepak  18 Jun  5  2021 [01;36m'All Users'[0m -> [34;42m/mnt/c/ProgramData[0m
+lrwxrwxrwx 1 deepak deepak  20 Jun  5  2021 [01;36m'Default User'[0m -> [01;34m/mnt/c/Users/Default[0m
+drwxrwxrwx 1 deepak deepak 512 Mar 24 04:48  [34;42mPublic[0m
+dr-xr-xr-x 1 deepak deepak 512 May 21 15:19  [01;34mDefault[0m
+d--x--x--x 1 deepak deepak 512 May 21 20:16  [01;34mAdmin[0m
+d--x--x--x 1 deepak deepak 512 Jun  7 17:25  [01;34mgaia[0m
+drwxrwxrwx 1 deepak deepak 512 Jun 20 13:13  [34;42mdeepak.kumar[0m
+]0;deepak@TIGER03271: /mnt/c/Users[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users[00m$ cd deepak.kumar/
+]0;deepak@TIGER03271: /mnt/c/Users/deepak.kumar[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users/deepak.kumar[00m$ ls
+ [0m[34;42mAnaconda3[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+ [34;42mIntelGraphicsProfiles[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{32f5f48e-aafe-11ec-9ac5-7c214ac736e2}.TM.blf[0m
+ [01;32mNTUSER.DAT{32f5f48e-aafe-11ec-9ac5-7c214ac736e2}.TMContainer00000000000000000001.regtrans-ms[0m
+ [01;32mNTUSER.DAT{32f5f48e-aafe-11ec-9ac5-7c214ac736e2}.TMContainer00000000000000000002.regtrans-ms[0m
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [34;42mPictures[0m
+ [01;36mPrintHood[0m
+ [01;36mRecent[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+ [01;36mTemplates[0m
+ [34;42mVideos[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+]0;deepak@TIGER03271: /mnt/c/Users/deepak.kumar[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users/deepak.kumar[00m$ cd D
+bash: cd: D: No such file or directory
+]0;deepak@TIGER03271: /mnt/c/Users/deepak.kumar[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users/deepak.kumar[00m$ cd Downloads/
+]0;deepak@TIGER03271: /mnt/c/Users/deepak.kumar/Downloads[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users/deepak.kumar/Downloads[00m$ ls
+ [0m[01;32mAnaconda3-2022.05-Windows-x86_64.exe[0m    [01;32m'Tax Session - New joiners (2022-06-01 03_04 GMT-7).mp4'[0m   [01;32mwsl_update_x64.msi[0m
+[01;32m'MLE Launch - Module 1 & Module 2 .mp4'[0m   [01;32mVSCodeUserSetup-x64-1.68.1.exe[0m
+ [01;32mMiniconda3-py38_4.12.0-Linux-x86_64.sh[0m   [01;32mdesktop.ini[0m
+]0;deepak@TIGER03271: /mnt/c/Users/deepak.kumar/Downloads[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users/deepak.kumar/Downloads[00m$ bash Miniconda3-py38_4.12.0-Linux-x86_64.sh 
+
+Welcome to Miniconda3 py38_4.12.0
+
+In order to continue the installation process, please review the license
+agreement.
+Please, press ENTER to continue
+>>> 
+======================================
+End User License Agreement - Miniconda
+======================================
+
+Copyright 2015-2022, Anaconda, Inc.
+
+All rights reserved under the 3-clause BSD License:
+
+This End User License Agreement (the "Agreement") is a legal agreement between you and Anaconda, Inc. ("Anaconda") and g
+overns your use of Miniconda.
+
+Subject to the terms of this Agreement, Anaconda hereby grants you a non-exclusive, non-transferable license to:
+
+  * Install and use the Miniconda,
+  * Modify and create derivative works of sample source code delivered in Miniconda subject to the Terms of Service for 
+the Repository (as defined hereinafter) available at https://www.anaconda.com/terms-of-service, and
+  * Redistribute code files in source (if provided to you by Anaconda as source) and binary forms, with or without modif
+ication subject to the requirements set forth below.
+
+Anaconda may, at its option, make available patches, workarounds or other updates to Miniconda. Unless the updates are p
+rovided with their separate governing terms, they are deemed part of Miniconda licensed to you as provided in this Agree
+ment. This Agreement does not entitle you to any support for Miniconda.
+
+Anaconda reserves all rights not expressly granted to you in this Agreement.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the followi
+ng conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this list of conditions and the following dis
+[7m--More--[27mclaimer.
+[7m--More--[27m  * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following 
+[7m--More--[27mdisclaimer in the documentation and/or other materials provided with the distribution.
+[7m--More--[27m  * Neither the name of Anaconda nor the names of its contributors may be used to endorse or promote products derived fr
+[7m--More--[27mom this software without specific prior written permission.
+[7m--More--[27m[K
+[7m--More--[27mYou acknowledge that, as between you and Anaconda, Anaconda owns all right, title, and interest, including all intellect
+[7m--More--[27mual property rights, in and to Miniconda and, with respect to third-party products distributed with or through Miniconda
+[7m--More--[27m, the applicable third-party licensors own all right, title and interest, including all intellectual property rights, in
+[7m--More--[27m and to such products. If you send or transmit any communications or materials to Anaconda suggesting or recommending ch
+[7m--More--[27manges to the software or documentation, including without limitation, new features or functionality relating thereto, or
+[7m--More--[27m any comments, questions, suggestions or the like ("Feedback"), Anaconda is free to use such Feedback. You hereby assign
+[7m--More--[27m to Anaconda all right, title, and interest in, and Anaconda is free to use, without any attribution or compensation to 
+[7m--More--[27many party, any ideas, know-how, concepts, techniques or other intellectual property rights contained in the Feedback, fo
+[7m--More--[27mr any purpose whatsoever, although Anaconda is not required to use any Feedback.
+[7m--More--[27m[K
+[7m--More--[27mDISCLAIMER
+[7m--More--[27m==========
+[7m--More--[27m[K
+[7m--More--[27mTHIS SOFTWARE IS PROVIDED BY ANACONDA AND ITS CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
+[7m--More--[27m NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EV
+[7m--More--[27mENT SHALL ANACONDA BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDI
+[7m--More--[27mNG, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUP
+[7m--More--[27mTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENC
+[7m--More--[27mE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+[7m--More--[27m[K
+[7m--More--[27mTO THE MAXIMUM EXTENT PERMITTED BY LAW, ANACONDA AND ITS AFFILIATES SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUN
+[7m--More--[27mITIVE OR CONSEQUENTIAL DAMAGES, OR ANY LOST PROFITS, LOSS OF USE, LOSS OF DATA OR LOSS OF GOODWILL, OR THE COSTS OF PROC
+[7m--More--[27mURING SUBSTITUTE PRODUCTS, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OR PERFORMANCE OF MINICONDA, W
+[7m--More--[27mHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENC
+[7m--More--[27mE), PRODUCT LIABILITY OR ANY OTHER CAUSE OF ACTION OR THEORY OF LIABILITY. IN NO EVENT WILL THE TOTAL CUMULATIVE LIABILI
+[7m--More--[27mTY OF ANACONDA AND ITS AFFILIATES UNDER OR ARISING OUT OF THIS AGREEMENT EXCEED US0.00.
+[7m--More--[27m[K
+[7m--More--[27mMiscellaneous
+[7m--More--[27m=============
+[7m--More--[27m[K
+[7m--More--[27mIf you want to terminate this Agreement, you may do so by discontinuing use of Miniconda. Anaconda may, at any time, ter
+[7m--More--[27mminate this Agreement and the license granted hereunder if you fail to comply with any term of this Agreement. Upon any 
+[7m--More--[27mtermination of this Agreement, you agree to promptly discontinue use of the Miniconda and destroy all copies in your pos
+[7m--More--[27msession or control. Upon any termination of this Agreement all provisions survive except for the licenses granted to you
+[7m--More--[27m.[K
+[7m--More--[27m[K
+[7m--More--[27mThis Agreement is governed by and construed in accordance with the internal laws of the State of Texas without giving ef
+[7m--More--[27mfect to any choice or conflict of law provision or rule that would require or permit the application of the laws of any 
+[7m--More--[27mjurisdiction other than those of the State of Texas. Any legal suit, action, or proceeding arising out of or related to 
+[7m--More--[27mthis Agreement or the licenses granted hereunder by you must be instituted exclusively in the federal courts of the Unit
+[7m--More--[27med States or the courts of the State of Texas in each case located in Travis County, Texas, and you irrevocably submit t
+[7m--More--[27mo the jurisdiction of such courts in any such suit, action, or proceeding.
+[7m--More--[27m[K
+[7m--More--[27mNotice of Third Party Software Licenses
+[7m--More--[27m=======================================
+[7m--More--[27m[K
+[7m--More--[27mMiniconda provides access to a repository (the "Repository") which contains software packages or tools licensed on an op
+[7m--More--[27men source basis from third parties and binary packages of these third party tools. These third party software packages o
+[7m--More--[27mr tools are provided on an "as is" basis and are subject to their respective license agreements as well as this Agreemen
+[7m--More--[27mt and the Terms of Service for the Repository located at https://www.anaconda.com/terms-of-service; provided, however, n
+[7m--More--[27mo restriction contained in the Terms of Service shall be construed so as to limit Your ability to download the packages 
+[7m--More--[27mcontained in Miniconda provided you comply with the license for each such package. These licenses may be accessed from w
+[7m--More--[27mithin the Miniconda software[1] or https://www.anaconda.com/legal. Information regarding which license is applicable is 
+[7m--More--[27mavailable from within many of the third party software packages and tools and at https://repo.anaconda.com/pkgs/main/ an
+[7m--More--[27md https://repo.anaconda.com/pkgs/r/. Anaconda reserves the right, in its sole discretion, to change which third party to
+[7m--More--[27mols are included in the Repository accessible through Miniconda.
+[7m--More--[27m[K
+[7m--More--[27m[K
+[7m--More--[27mIntel Math Kernel Library
+[7m--More--[27m-------------------------
+[7m--More--[27m[K
+[7m--More--[27mMiniconda provides access to re-distributable, run-time, shared-library files from the Intel Math Kernel Library ("MKL b
+[7m--More--[27minaries").
+[7m--More--[27m[K
+[7m--More--[27mCopyright 2018 Intel Corporation. License available at https://software.intel.com/en-us/license/intel-simplified-softwar
+[7m--More--[27me-license (the "MKL License").
+[7m--More--[27m[K
+[7m--More--[27mYou may use and redistribute the MKL binaries, without modification, provided the following conditions are met:
+[7m--More--[27m[K
+[7m--More--[27m  * Redistributions must reproduce the above copyright notice and the following terms of use in the MKL binaries and in 
+[7m--More--[27mthe documentation and/or other materials provided with the distribution.
+[7m--More--[27m  * Neither the name of Intel nor the names of its suppliers may be used to endorse or promote products derived from the
+[7m--More--[27m MKL binaries without specific prior written permission.
+[7m--More--[27m  * No reverse engineering, decompilation, or disassembly of the MKL binaries is permitted.
+[7m--More--[27m[K
+[7m--More--[27mYou are specifically authorized to use and redistribute the MKL binaries with your installation of Miniconda subject to 
+[7m--More--[27mthe terms set forth in the MKL License. You are also authorized to redistribute the MKL binaries with Miniconda or in th
+[7m--More--[27me Anaconda package that contains the MKL binaries. If needed, instructions for removing the MKL binaries after installat
+[7m--More--[27mion of Miniconda are available at https://docs.anaconda.com.
+[7m--More--[27m[K
+[7m--More--[27mcuDNN Software
+[7m--More--[27m--------------
+[7m--More--[27m[K
+[7m--More--[27mMiniconda also provides access to cuDNN software binaries ("cuDNN binaries") from NVIDIA Corporation. You are specifical
+[7m--More--[27mly authorized to use the cuDNN binaries with your installation of Miniconda subject to your compliance with the license 
+[7m--More--[27magreement located at https://docs.nvidia.com/deeplearning/sdk/cudnn-sla/index.html. You are also authorized to redistrib
+[7m--More--[27mute the cuDNN binaries with an Miniconda package that contains the cuDNN binaries. You can add or remove the cuDNN binar
+[7m--More--[27mies utilizing the install and uninstall features in Miniconda.
+[7m--More--[27m[K
+[7m--More--[27mcuDNN binaries contain source code provided by NVIDIA Corporation.
+[7m--More--[27m[K
+[7m--More--[27mArm Performance Libraries
+[7m--More--[27m-------------------------
+[7m--More--[27m[K
+[7m--More--[27mArm Performance Libraries (Free Version): Anaconda provides access to software and related documentation from the Arm Pe
+[7m--More--[27mrformance Libraries ("Arm PL") provided by Arm Limited. By installing or otherwise accessing the Arm PL, you acknowledge
+[7m--More--[27m and agree that use and distribution of the Arm PL is subject to your compliance with the Arm PL end user license agreem
+[7m--More--[27ment located at: https://developer.arm.com/tools-and-software/server-and-hpc/downloads/arm-performance-libraries/eula.
+[7m--More--[27m[K
+[7m--More--[27mExport; Cryptography Notice
+[7m--More--[27m===========================
+[7m--More--[27m[K
+[7m--More--[27mYou must comply with all domestic and international export laws and regulations that apply to the software, which includ
+[7m--More--[27me restrictions on destinations, end users, and end use. Miniconda includes cryptographic software. The country in which 
+[7m--More--[27myou currently reside may have restrictions on the import, possession, use, and/or re-export to another country, of encry
+[7m--More--[27mption software. BEFORE using any encryption software, please check your country's laws, regulations and policies concern
+[7m--More--[27ming the import, possession, or use, and re-export of encryption software, to see if this is permitted. See the Wassenaar
+[7m--More--[27m Arrangement http://www.wassenaar.org/ for more information.
+[7m--More--[27m[K
+[7m--More--[27mAnaconda has self-classified this software as Export Commodity Control Number (ECCN) EAR99, which includes mass market i
+[7m--More--[27mnformation security software using or performing cryptographic functions with asymmetric algorithms. No license is requi
+[7m--More--[27mred for export of this software to non-embargoed countries.
+[7m--More--[27m[K
+[7m--More--[27mThe Intel Math Kernel Library contained in Miniconda is classified by Intel as ECCN 5D992.c with no license required for
+[7m--More--[27m export to non-embargoed countries.
+[7m--More--[27m[K
+[7m--More--[27mThe following packages listed on https://www.anaconda.com/cryptography are included in the Repository accessible through
+[7m--More--[27m Miniconda that relate to cryptography.
+[7m--More--[27m[K
+[7m--More--[27mLast updated March 21, 2022
+
+Do you accept the license terms? [yes|no]
+[no] >>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> 
+Please answer 'yes' or 'no':'
+>>> yes
+
+Miniconda3 will now be installed into this location:
+/home/deepak/miniconda3
+
+  - Press ENTER to confirm the location
+  - Press CTRL-C to abort the installation
+  - Or specify a different location below
+
+[/home/deepak/miniconda3] >>> 
+PREFIX=/home/deepak/miniconda3
+Unpacking payload ...
+  0%|                                                                                            | 0/39 [00:00<?, ?it/s]Extracting : pip-21.2.4-py38h06a4308_0.conda:   0%|                                              | 0/39 [00:00<?, ?it/s]Extracting : pip-21.2.4-py38h06a4308_0.conda:   3%|▉                                     | 1/39 [00:00<00:04,  8.80it/s]Extracting : six-1.16.0-pyhd3eb1b0_1.conda:   3%|█                                       | 1/39 [00:00<00:04,  8.80it/s]Extracting : openssl-1.1.1n-h7f8727e_0.conda:   5%|█▉                                    | 2/39 [00:00<00:04,  8.80it/s]Extracting : pycparser-2.21-pyhd3eb1b0_0.conda:   8%|██▊                                 | 3/39 [00:00<00:04,  8.80it/s]Extracting : ld_impl_linux-64-2.35.1-h7274673_9.conda:  10%|██▉                          | 4/39 [00:00<00:03,  8.80it/s]Extracting : colorama-0.4.4-pyhd3eb1b0_0.conda:  13%|████▌                               | 5/39 [00:00<00:03,  8.80it/s]Extracting : tk-8.6.11-h1ccaba5_0.conda:  15%|██████▌                                    | 6/39 [00:00<00:03,  8.80it/s]Extracting : cryptography-36.0.0-py38h9ce1e76_0.conda:  18%|█████▏                       | 7/39 [00:00<00:03,  8.80it/s]Extracting : sqlite-3.38.2-hc218d9a_0.conda:  21%|████████                               | 8/39 [00:00<00:03,  8.80it/s]Extracting : conda-content-trust-0.1.1-pyhd3eb1b0_0.conda:  23%|█████▊                   | 9/39 [00:00<00:03,  8.80it/s]Extracting : cffi-1.15.0-py38hd667e15_1.conda:  26%|█████████▏                          | 10/39 [00:00<00:03,  8.80it/s]Extracting : libstdcxx-ng-9.3.0-hd4cf53a_17.conda:  28%|█████████                       | 11/39 [00:00<00:03,  8.80it/s]Extracting : libgomp-9.3.0-h5101ec6_17.conda:  31%|███████████▍                         | 12/39 [00:00<00:03,  8.80it/s]Extracting : requests-2.27.1-pyhd3eb1b0_0.conda:  33%|███████████▎                      | 13/39 [00:00<00:02,  8.80it/s]Extracting : zlib-1.2.12-h7f8727e_1.conda:  36%|██████████████▎                         | 14/39 [00:00<00:02,  8.80it/s]Extracting : conda-4.12.0-py38h06a4308_0.conda:  38%|█████████████▍                     | 15/39 [00:00<00:02,  8.80it/s]Extracting : conda-4.12.0-py38h06a4308_0.conda:  41%|██████████████▎                    | 16/39 [00:00<00:00, 45.66it/s]Extracting : libgcc-ng-9.3.0-h5101ec6_17.conda:  41%|██████████████▎                    | 16/39 [00:00<00:00, 45.66it/s]Extracting : libffi-3.3-he6710b0_2.conda:  44%|█████████████████▊                       | 17/39 [00:00<00:00, 45.66it/s]Extracting : readline-8.1.2-h7f8727e_1.conda:  46%|█████████████████                    | 18/39 [00:00<00:00, 45.66it/s]Extracting : ncurses-6.3-h7f8727e_2.conda:  49%|███████████████████▍                    | 19/39 [00:00<00:00, 45.66it/s]Extracting : pycosat-0.6.3-py38h7b6447c_1.conda:  51%|█████████████████▍                | 20/39 [00:00<00:00, 45.66it/s]Extracting : _libgcc_mutex-0.1-main.conda:  54%|█████████████████████▌                  | 21/39 [00:00<00:00, 45.66it/s]Extracting : pyopenssl-22.0.0-pyhd3eb1b0_0.conda:  56%|██████████████████▌              | 22/39 [00:00<00:00, 45.66it/s]Extracting : urllib3-1.26.8-pyhd3eb1b0_0.conda:  59%|████████████████████▋              | 23/39 [00:00<00:00, 45.66it/s]Extracting : python-3.8.13-h12debd9_0.conda:  62%|███████████████████████▍              | 24/39 [00:00<00:00, 45.66it/s]Extracting : pysocks-1.7.1-py38h06a4308_0.conda:  64%|█████████████████████▊            | 25/39 [00:00<00:00, 45.66it/s]Extracting : idna-3.3-pyhd3eb1b0_0.conda:  67%|███████████████████████████▎             | 26/39 [00:00<00:00, 45.66it/s]Extracting : charset-normalizer-2.0.4-pyhd3eb1b0_0.conda:  69%|█████████████████▎       | 27/39 [00:00<00:00, 45.66it/s]Extracting : tqdm-4.63.0-pyhd3eb1b0_0.conda:  72%|███████████████████████████▎          | 28/39 [00:00<00:00, 45.66it/s]Extracting : brotlipy-0.7.0-py38h27cfd23_1003.conda:  74%|██████████████████████▎       | 29/39 [00:00<00:00, 45.66it/s]Extracting : ruamel_yaml-0.15.100-py38h27cfd23_0.conda:  77%|████████████████████▊      | 30/39 [00:00<00:00, 45.66it/s]Extracting : certifi-2021.10.8-py38h06a4308_2.conda:  79%|███████████████████████▊      | 31/39 [00:00<00:00, 45.66it/s]Extracting : ca-certificates-2022.3.29-h06a4308_1.conda:  82%|█████████████████████▎    | 32/39 [00:00<00:00, 45.66it/s]Extracting : yaml-0.2.5-h7b6447c_0.conda:  85%|██████████████████████████████████▋      | 33/39 [00:00<00:00, 45.66it/s]Extracting : wheel-0.37.1-pyhd3eb1b0_0.conda:  87%|████████████████████████████████▎    | 34/39 [00:00<00:00, 45.66it/s]Extracting : conda-package-handling-1.8.1-py38h7f8727e_0.conda:  90%|█████████████████  | 35/39 [00:00<00:00, 45.66it/s]Extracting : setuptools-61.2.0-py38h06a4308_0.conda:  92%|███████████████████████████▋  | 36/39 [00:00<00:00, 45.66it/s]Extracting : xz-5.2.5-h7b6447c_0.conda:  95%|████████████████████████████████████████▊  | 37/39 [00:00<00:00, 45.66it/s]Extracting : _openmp_mutex-4.5-1_gnu.tar.bz2:  97%|████████████████████████████████████ | 38/39 [00:00<00:00, 45.66it/s]                                                                                                                        Collecting package metadata (current_repodata.json): - done
+Solving environment: | / done
+
+## Package Plan ##
+
+  environment location: /home/deepak/miniconda3
+
+  added / updated specs:
+    - _libgcc_mutex==0.1=main
+    - _openmp_mutex==4.5=1_gnu
+    - brotlipy==0.7.0=py38h27cfd23_1003
+    - ca-certificates==2022.3.29=h06a4308_1
+    - certifi==2021.10.8=py38h06a4308_2
+    - cffi==1.15.0=py38hd667e15_1
+    - charset-normalizer==2.0.4=pyhd3eb1b0_0
+    - colorama==0.4.4=pyhd3eb1b0_0
+    - conda-content-trust==0.1.1=pyhd3eb1b0_0
+    - conda-package-handling==1.8.1=py38h7f8727e_0
+    - conda==4.12.0=py38h06a4308_0
+    - cryptography==36.0.0=py38h9ce1e76_0
+    - idna==3.3=pyhd3eb1b0_0
+    - ld_impl_linux-64==2.35.1=h7274673_9
+    - libffi==3.3=he6710b0_2
+    - libgcc-ng==9.3.0=h5101ec6_17
+    - libgomp==9.3.0=h5101ec6_17
+    - libstdcxx-ng==9.3.0=hd4cf53a_17
+    - ncurses==6.3=h7f8727e_2
+    - openssl==1.1.1n=h7f8727e_0
+    - pip==21.2.4=py38h06a4308_0
+    - pycosat==0.6.3=py38h7b6447c_1
+    - pycparser==2.21=pyhd3eb1b0_0
+    - pyopenssl==22.0.0=pyhd3eb1b0_0
+    - pysocks==1.7.1=py38h06a4308_0
+    - python==3.8.13=h12debd9_0
+    - readline==8.1.2=h7f8727e_1
+    - requests==2.27.1=pyhd3eb1b0_0
+    - ruamel_yaml==0.15.100=py38h27cfd23_0
+    - setuptools==61.2.0=py38h06a4308_0
+    - six==1.16.0=pyhd3eb1b0_1
+    - sqlite==3.38.2=hc218d9a_0
+    - tk==8.6.11=h1ccaba5_0
+    - tqdm==4.63.0=pyhd3eb1b0_0
+    - urllib3==1.26.8=pyhd3eb1b0_0
+    - wheel==0.37.1=pyhd3eb1b0_0
+    - xz==5.2.5=h7b6447c_0
+    - yaml==0.2.5=h7b6447c_0
+    - zlib==1.2.12=h7f8727e_1
+
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-4.5-1_gnu
+  brotlipy           pkgs/main/linux-64::brotlipy-0.7.0-py38h27cfd23_1003
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2022.3.29-h06a4308_1
+  certifi            pkgs/main/linux-64::certifi-2021.10.8-py38h06a4308_2
+  cffi               pkgs/main/linux-64::cffi-1.15.0-py38hd667e15_1
+  charset-normalizer pkgs/main/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
+  colorama           pkgs/main/noarch::colorama-0.4.4-pyhd3eb1b0_0
+  conda              pkgs/main/linux-64::conda-4.12.0-py38h06a4308_0
+  conda-content-tru~ pkgs/main/noarch::conda-content-trust-0.1.1-pyhd3eb1b0_0
+  conda-package-han~ pkgs/main/linux-64::conda-package-handling-1.8.1-py38h7f8727e_0
+  cryptography       pkgs/main/linux-64::cryptography-36.0.0-py38h9ce1e76_0
+  idna               pkgs/main/noarch::idna-3.3-pyhd3eb1b0_0
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.35.1-h7274673_9
+  libffi             pkgs/main/linux-64::libffi-3.3-he6710b0_2
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-9.3.0-h5101ec6_17
+  libgomp            pkgs/main/linux-64::libgomp-9.3.0-h5101ec6_17
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-9.3.0-hd4cf53a_17
+  ncurses            pkgs/main/linux-64::ncurses-6.3-h7f8727e_2
+  openssl            pkgs/main/linux-64::openssl-1.1.1n-h7f8727e_0
+  pip                pkgs/main/linux-64::pip-21.2.4-py38h06a4308_0
+  pycosat            pkgs/main/linux-64::pycosat-0.6.3-py38h7b6447c_1
+  pycparser          pkgs/main/noarch::pycparser-2.21-pyhd3eb1b0_0
+  pyopenssl          pkgs/main/noarch::pyopenssl-22.0.0-pyhd3eb1b0_0
+  pysocks            pkgs/main/linux-64::pysocks-1.7.1-py38h06a4308_0
+  python             pkgs/main/linux-64::python-3.8.13-h12debd9_0
+  readline           pkgs/main/linux-64::readline-8.1.2-h7f8727e_1
+  requests           pkgs/main/noarch::requests-2.27.1-pyhd3eb1b0_0
+  ruamel_yaml        pkgs/main/linux-64::ruamel_yaml-0.15.100-py38h27cfd23_0
+  setuptools         pkgs/main/linux-64::setuptools-61.2.0-py38h06a4308_0
+  six                pkgs/main/noarch::six-1.16.0-pyhd3eb1b0_1
+  sqlite             pkgs/main/linux-64::sqlite-3.38.2-hc218d9a_0
+  tk                 pkgs/main/linux-64::tk-8.6.11-h1ccaba5_0
+  tqdm               pkgs/main/noarch::tqdm-4.63.0-pyhd3eb1b0_0
+  urllib3            pkgs/main/noarch::urllib3-1.26.8-pyhd3eb1b0_0
+  wheel              pkgs/main/noarch::wheel-0.37.1-pyhd3eb1b0_0
+  xz                 pkgs/main/linux-64::xz-5.2.5-h7b6447c_0
+  yaml               pkgs/main/linux-64::yaml-0.2.5-h7b6447c_0
+  zlib               pkgs/main/linux-64::zlib-1.2.12-h7f8727e_1
+
+
+Preparing transaction: \ | done
+Executing transaction: - \ | / - \ | / done
+installation finished.
+Do you wish the installer to initialize Miniconda3
+by running conda init? [yes|no]
+[no] >>> yes
+no change     /home/deepak/miniconda3/condabin/conda
+no change     /home/deepak/miniconda3/bin/conda
+no change     /home/deepak/miniconda3/bin/conda-env
+no change     /home/deepak/miniconda3/bin/activate
+no change     /home/deepak/miniconda3/bin/deactivate
+no change     /home/deepak/miniconda3/etc/profile.d/conda.sh
+no change     /home/deepak/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/deepak/miniconda3/shell/condabin/Conda.psm1
+no change     /home/deepak/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/deepak/miniconda3/lib/python3.8/site-packages/xontrib/conda.xsh
+no change     /home/deepak/miniconda3/etc/profile.d/conda.csh
+modified      /home/deepak/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+If you'd prefer that conda's base environment not be activated on startup, 
+   set the auto_activate_base parameter to false: 
+
+conda config --set auto_activate_base false
+
+Thank you for installing Miniconda3!
+]0;deepak@TIGER03271: /mnt/c/Users/deepak.kumar/Downloads[01;32mdeepak@TIGER03271[00m:[01;34m/mnt/c/Users/deepak.kumar/Downloads[00m$ exit
+exit
+
+Script done on 2022-06-21 17:51:27+05:30 [COMMAND_EXIT_CODE="0"]
