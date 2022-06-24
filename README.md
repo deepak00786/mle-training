@@ -16,7 +16,7 @@ The following techniques have been used:
 
 ## To excute the script 
  - First load environment from yaml file 
- - Command is = conda env create -f {name_of_Yaml.yaml}
- - New env from above yaml file will be created
+ - Command is = conda env create -f {name_of_Yml.yml}
+ - New env from above yml file will be created
  - Activate it by = conda activate new_env 
  - Run the script = python nonstandardcode.py 
